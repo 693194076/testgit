@@ -2,7 +2,7 @@ package com.example.vo;
 
 public class User {
 	private String Name = "zhangsan";
-	private String age = "18";
+	private String age = "18";//注釋
 
 	public String getName() {
 		return Name;
